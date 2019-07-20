@@ -1,5 +1,5 @@
 # Email-Administration-Application
-**This is an application that: **
+<b>This is an application that: </b>
  
  Generate an email with the following syntax: firstname.lastname@department.company.com <br/>
  Determine the department (sales, development, accounting), if none leave blank <br/>
